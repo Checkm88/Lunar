@@ -1,7 +1,3 @@
-![Lunar](https://user-images.githubusercontent.com/102661357/212756327-d675f923-8b7a-476a-9d00-5051ad2bcb3d.png)
-
-
-
 
 # Lunar
 **Smart, sophisticated admin script that is simply the best.**
