@@ -5,11 +5,11 @@
 
 # Supported Executors
 Due to lunar using specific functions, it requires good executor which are as follows:
-**Krnl
+```Krnl
 Synapse X
 script-ware
 fluxus
-**
+```
 
 # Supported Devices
 Lunar is only optimized to Tablets, laptops, computer. It will not work on mobile.
