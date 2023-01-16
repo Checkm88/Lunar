@@ -3,10 +3,6 @@
 
 
 # Supported Executors
-```
-Synapse X
-Script-ware
-Krnl
-Fluxus
-Arceus X
+```lua
+print("monkeys")
 ```
